@@ -1,0 +1,14 @@
+node_modules/
+.env
+.pdf
+log
+production.env
+development.env
+.DS_Store
+try.html
+todos.md
+fee.record.txt
+data.txt
+log/app.log
+timeline2222.js
+index.html
